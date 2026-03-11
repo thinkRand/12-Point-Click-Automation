@@ -1,4 +1,4 @@
-# 12-Point Click Automation
+# 12-keys to clicks automation
 
 [![AutoHotkey](https://img.shields.io/badge/Language-AutoHotkey-yellow)](https://www.autohotkey.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
